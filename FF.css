@@ -455,6 +455,11 @@ nav .fa-solid{
         margin-bottom: -30% ;
         overflow-x: hidden;
     }
+    
+    .header-text{
+        margin-top: 153%;
+        font-size: 36px;
+    }
 }
 
 @media only screen and (min-width:600px) and (max-width: 700px){
